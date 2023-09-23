@@ -6,6 +6,7 @@ import { ElementRef, useEffect, useRef, useState } from "react";
 import { useMediaQuery } from "usehooks-ts";
 
 import { cn } from "@/lib/utils";
+import { UserItem } from "@/app/(main)/_components/main.user-item";
 
 export const Navigation = () => {
   const pathname = usePathname();
@@ -110,7 +111,6 @@ export const Navigation = () => {
           isMobile && "w-0"
         )}
       >
-        {/* CLOSE SIDEBAR */}
         <div
           onClick={collapse}
           role="button"
@@ -121,22 +121,18 @@ export const Navigation = () => {
         >
           <ChevronsLeft className="h-6 w-6" />
         </div>
-
-        {/* BIG HEADINGS */}
         <div>
-          <p>Action items</p>
+          <UserItem />
         </div>
         <div className="mt-4">
           <p>Documents</p>
         </div>
-
         <div
           onMouseDown={handleMouseDown}
           onClick={resetWidth}
           className="opacity-0 group-hover/sidebar:opacity-100 transition cursor-ew-resize absolute h-full w-1 bg-primary/10 right-0 top-0"
         />
       </aside>
-
       <div
         ref={navbarRef}
         className={cn(
@@ -146,15 +142,9 @@ export const Navigation = () => {
         )}
       >
         <nav className="bg-transparent px-3 py-2 w-full">
-          {isCollapsed && (
-            <MenuIcon
-              onClick={resetWidth}
-              role="button"
-              className="h-6 w-6 text-muted-foreground"
-            />
-          )}
+          {isCollapsed && <MenuIcon onClick={resetWidth} role="button" className="h-6 w-6 text-muted-foreground" />}
         </nav>
       </div>
     </>
-  );
-};
+  )
+}
