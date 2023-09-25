@@ -17,7 +17,8 @@ import {
 } from "@/components/ui/dropdown-menu";
 
 export const UserItem = () => {
-  const { user } = useUser();
+  const { user } = useUser();  //-Get user information using Clerk's useUser hook
+
 
   return (
     <DropdownMenu>
@@ -28,7 +29,7 @@ export const UserItem = () => {
               <AvatarImage src={user?.imageUrl} />
             </Avatar>
             <span className="text-start font-medium line-clamp-1">
-              {user?.fullName}&apos;s Jotion
+              {user?.fullName}&apos;s Devotion
             </span>
           </div>
           <ChevronsLeftRight className="rotate-90 ml-2 text-muted-foreground h-4 w-4" />
@@ -40,6 +41,7 @@ export const UserItem = () => {
         alignOffset={11}
         forceMount
       >
+        {/* User Information */}
         <div className="flex flex-col space-y-4 p-2">
           <p className="text-xs font-medium leading-none text-muted-foreground">
             {user?.emailAddresses[0].emailAddress}
@@ -52,12 +54,16 @@ export const UserItem = () => {
             </div>
             <div className="space-y-1">
               <p className="text-sm line-clamp-1">
-                {user?.fullName}&apos;s Jotion
+                {user?.fullName}&apos;s Devotion
               </p>
             </div>
           </div>
         </div>
+
+        {/* Separator */}
         <DropdownMenuSeparator />
+
+        {/* Sign out button */}
         <DropdownMenuItem asChild className="w-full cursor-pointer text-muted-foreground">
           <SignOutButton>
             Log out
