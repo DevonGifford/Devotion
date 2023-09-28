@@ -108,10 +108,17 @@ Let's dive into the key features: 🔑
 <!-- CLOSING DIV -->
 </details>
 
-<br><br>
+<br>
 
 
-### Prerequisites
+#### Running Locally:
+<!-- -------------------------------------------------------------------------- -->
+<hr>
+
+<!-- Small container -->
+<details>
+<summary> Click here to expand: </summary>
+<br/>
 
 **Node version 18.x.x**
 
@@ -154,3 +161,9 @@ npx convex dev
 ```shell
 npm run dev
 ```
+
+
+<!-- CLOSING DIV -->
+</details>
+
+<br><br>
