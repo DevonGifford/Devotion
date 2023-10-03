@@ -125,7 +125,7 @@ Let's dive into the key features: 🔑
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/notion-clone-tutorial.git
+git clone https://github.com/DevonGifford/Devotion--aNotionClone.git
 ```
 
 ### Install packages
