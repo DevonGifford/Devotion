@@ -28,9 +28,11 @@ import { UserItem } from "@/app/(main)/_components/main.user-item";
 import { Item } from "./main.item";
 import { DocumentList } from "./main.doc-list";
 import { TrashBox } from "./main.trash-box";
+import { useSettings } from "@/hooks/use-settings";
 
 export const Navigation = () => {
   const search = useSearch();
+  const settings = useSettings();
   const pathname = usePathname();
   const create = useMutation(api.documents.create);
 
@@ -164,7 +166,7 @@ export const Navigation = () => {
         <div>
           <UserItem />
           <Item label="Search" icon={Search} isSearch onClick={search.onOpen} />
-          <Item label="Settings" icon={Settings} onClick={() => {}} />
+          <Item label="Settings" icon={Settings} onClick={settings.onOpen} />
           <Item onClick={handleCreate} label="New page" icon={PlusCircle} />
         </div>
         <div className="mt-4">
