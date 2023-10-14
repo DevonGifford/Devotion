@@ -16,7 +16,8 @@
 <!-- Logo -->
 <p align='center'>
 <a href='https://devotion-portfolioproject.vercel.app/', target='_blank'>
-    <img src="🎯🎯🎯" alt="Demo" title="DemoImage" width="500" height="300">
+    <img src="/public/github/home-demo.jpeg" alt="Demo" title="DemoImage" width="200" height="500">
+    <img src="/public/github/dashboard-demo.png" alt="Demo" title="DemoImage" width="600" height="300">
 </a>
 </p>
 
@@ -42,6 +43,8 @@ Utilizing a real-time database and recursive components, Devotion serves as a ro
 
 Feel free to further refine or expand upon this introduction based on your preferences. 
 If there's anything else you'd like to add or adjust, please let me know!
+
+⚠ This project is for educational purposes only and not affiliated with Notion.
 
 <br>
 
@@ -128,23 +131,7 @@ Organize content with nested documents and enjoy the flexibility of infinite chi
 <br/>
 
 
-#### Important points to note:
-<!-- -------------------------------------------------------------------------- -->
-<hr>
 
-<!-- Small container -->
-<details>
-<summary> Click here to see all the features: </summary>
-<br/>
-
-- This project is for educational purposes only and not affiliated with Notion.
-
-- 🎯🎯🎯
-
-<!-- CLOSING DIV -->
-</details>
-
-<br>
 
 
 #### Running Locally:
@@ -207,13 +194,39 @@ npm run dev
 
 <!-- Acknowledgments -->
 
-## Acknowledgments 🎯
+#### Acknowledgments 
+<hr>
 
-If your project uses third-party libraries, frameworks, or resources, acknowledge them and provide links to their documentation or repositories.
+<!-- Small container -->
+<details>
+<summary> Click here to expand: </summary>
+<br/>
+
+[Convex](https://www.convex.dev)
+
+[Clerk](https://dub.sh/7gFtfQb)
+
+[Edgestore](https://edgestore.dev)
+
+[ShadCN UI](https://ui.shadcn.com/)
+
+[CodeWithAntonio](https://www.youtube.com/watch?v=0OaDyjB9Ib8&list=PLIofMfZm46XBEb-9ssF89iBf3jHeiC50B&index=4&t=10701s&ab_channel=CodeWithAntonio)
+
+<!-- CLOSING DIV -->
+</details>
+
+<br><br>
+
 
 <!-- License -->
 
-## License 🎯
+#### License 
+<hr>
+
+<!-- Small container -->
+<details>
+<summary> Click here to expand: </summary>
+<br/>
 
 Copyright 2023 - Devon Gifford
 
@@ -222,8 +235,14 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
+<!-- CLOSING DIV -->
+</details>
+
+<br><br>
+
+
 <!-- Closing -->
 
-## Closing Notes 🎯
+<!-- ## Closing Notes 🎯
 
-Any additional information, closing remarks, or next steps for the project can be mentioned here.
+Any additional information, closing remarks, or next steps for the project can be mentioned here. -->
