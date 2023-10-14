@@ -1,6 +1,6 @@
 <!-- Introduction Text -->
 <div align="center">
-  <a href='🎯🎯🎯', target='_blank'>
+  <a href='https://devotion-portfolioproject.vercel.app/', target='_blank'>
     <h1>Devotion</h1>
     <h3>Fullstack Notion Clone</h3>
     <h4>(Portfolio Project)<h4>
@@ -15,7 +15,7 @@
 
 <!-- Logo -->
 <p align='center'>
-<a href='🎯🎯🎯', target='_blank'>
+<a href='https://devotion-portfolioproject.vercel.app/', target='_blank'>
     <img src="🎯🎯🎯" alt="Demo" title="DemoImage" width="500" height="300">
 </a>
 </p>
@@ -35,34 +35,76 @@
 <!-- -------------------------------------------------------------------------- -->
 <hr/>
 
-🎯🎯🎯
+Welcome to Devotion, a full-stack web application designed to replicate the seamless functionality of Notion. 
+This platform provides a unified workspace for the detailed organization and effortless sharing of ideas, documents, and plans.
 
-<br><br>
+Utilizing a real-time database and recursive components, Devotion serves as a robust proof of concept, aiming to mirror the key features of Notion and push the boundaries of web/cloud based note-taking applications.
+
+Feel free to further refine or expand upon this introduction based on your preferences. 
+If there's anything else you'd like to add or adjust, please let me know!
+
+<br>
 
 
 
-#### Key Features of this project:
+#### Key Features of this project: 🔑
 <!-- -------------------------------------------------------------------------- -->
 <hr>
+  
 
-<!-- Small container -->
-<details>
-<summary> Click here to see all the features: </summary>
-<br/>
+- <strong> Sleek UI with Tailwind Design:</strong>  💎 <br> 
+Enjoy a visually stunning and modern user interface.
 
-THIS IS JUST A TEMPLATE - CLEAN THIS UP 🎯🎯🎯
+- <strong> Tailwind Animations and Transition Effects:</strong>  🌟 <br> 
+Enhance the user experience with smooth and captivating animations.
 
-Let's dive into the key features: 🔑  
+- <strong> Full Responsiveness for All Devices:</strong>  📱 <br> 
+The application adapts flawlessly to various screen sizes and devices.
+
+- <strong> Clerk Authentication Integration:</strong>  🚀 <br> 
+Simplify the registration and login process using GitHub/Discord/Google credentials.
+
+- <strong> File and Image Upload:</strong> 📁🖼️ <br> 
+Seamlessly upload and store user files and images securely in the cloud using Edgestore and Convex. 
+
+- <strong> Server Error Handling with Toast:</strong>  🚦 <br> 
+Display meaningful error messages and ensure smooth error handling for a seamless user experience.
+
+- <strong> Efficient Data Retrieval with Server React Components:</strong> 🌐⚡️ <br> 
+Optimize performance by directly accessing the database without relying on additional API calls. 
+
+- <strong> Real-time Database:</strong>  🔗 <br> 
+Ensure data synchronization and real-time updates for a dynamic user experience.
+
+- <strong> Light and Dark Mode:</strong>  🌓 <br> 
+Choose between light and dark themes for a personalized visual experience.
+
+- <strong> Expandable & Fully Collapsible Sidebar:</strong>  ↕️ <br> 
+Easily navigate through the application with an intuitive sidebar that can be expanded or collapsed as needed.
+
+- <strong> Trash Can with Hard & Soft Delete Functionality:</strong>  🗑️ <br> 
+Safely manage documents with the ability to both soft delete (move to trash) and hard delete (permanently remove).
+
+- <strong> Recover Deleted Files:</strong> 🔄📄 <br> 
+Restore accidentally deleted files for added peace of mind. 
+
+- <strong> Emoji Icons & Cover Images:</strong> 🖼️😇 <br> 
+Personalize each custom document with emoji icons and cover images, supporting various formats including GIFs. 
+
+- <strong> Infinite Children Documents:</strong>  🌲 <br> 
+Organize content with nested documents and enjoy the flexibility of infinite child documents.
 
 
-<div>
+
+
+
+<!-- <div>
     <ul>
-        <li> 💎 Sleek UI with Tailwind design: Enjoy a visually stunning and modern user interface.</li>
+        <li> </li>
         <li> 🌟 Tailwind animations and transition effects: Enhance the user experience with smooth and captivating animations.</li>
         <li> 📱 Full responsiveness for all devices: The application adapts flawlessly to various screen sizes and devices.</li>
-        <li> 🔐 Credential authentication with XXX: Safeguard user data and ensure secure access to the platform.</li>
         <li> 🚀 Github authentication integration: Simplify the registration and login process using GitHub credentials.</li>
-        <li> 📁 File and image upload using XXX: Store user-uploaded files and images securely in the cloud.</li>
+        <li> 📁 File and image upload using Edgestore and Convex: Store user-uploaded files and images securely in the cloud.</li>
         <li> 🚦 Server error handling with toast: Display meaningful error messages and ensure smooth error handling.</li>
         <li> 🌐 Fetch data with server React components: Optimize performance by directly accessing the database without relying on API calls.</li>
         <li> ⚡️ Handling relations between Server and Child components in a real-time environment: Ensure consistent data synchronization and real-time updates.</li>
@@ -70,25 +112,19 @@ Let's dive into the key features: 🔑
 </div>
 
 - Real-time database  🔗 
-- Notion-style editor 📝 
 - Light and Dark mode 🌓
-- Infinite children documents 🌲
-- Trash can & soft delete 🗑️
-- Authentication 🔐 
-- File upload
-- File deletion
-- File replacement
-- Icons for each document (changes in real-time) 🌠
-- Expandable sidebar ➡️🔀⬅️
-- Full mobile responsiveness 📱
-- Publish your note to the web 🌐
-- Fully collapsable sidebar ↕️
-- Landing page 🛬
-- Cover image of each document 🖼️
-- Recover deleted files 🔄📄
+- Expandable & fully collapsable sidebar ↕️
+- Trash can with hard & soft delete functionality & recover deleted files🗑️
+- Credential authentication with Clerk: Safeguard user data and ensure secure access to the platform. 🔐
 
-<!-- CLOSING DIV -->
-</details>
+- Each custom document has emojie-icons & cover image (all formats including gif) 🖼️😇
+- Infinite children documents, with file upload, deletion & replacement 🌲
+- Publish your note to the web 🌐
+- Recover deleted files 🔄📄
+- Landing page 🛬
+
+-  -->
+
 <br/>
 
 
@@ -167,3 +203,27 @@ npm run dev
 </details>
 
 <br><br>
+
+
+<!-- Acknowledgments -->
+
+## Acknowledgments 🎯
+
+If your project uses third-party libraries, frameworks, or resources, acknowledge them and provide links to their documentation or repositories.
+
+<!-- License -->
+
+## License 🎯
+
+Copyright 2023 - Devon Gifford
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+<!-- Closing -->
+
+## Closing Notes 🎯
+
+Any additional information, closing remarks, or next steps for the project can be mentioned here.
