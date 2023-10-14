@@ -16,8 +16,8 @@
 <!-- Logo -->
 <p align='center'>
 <a href='https://devotion-portfolioproject.vercel.app/', target='_blank'>
-    <img src="/public/github/home-demo.jpeg" alt="Demo" title="DemoImage" width="400" height="450">
-    <img src="/public/github/dashboard-demo.png" alt="Demo" title="DemoImage" width="600" height="450">
+    <img src="/public/github/home-demo.jpeg" alt="Demo" title="DemoImage" width="500" height="750">
+    <img src="/public/github/dashboard-demo.png" alt="Demo" title="DemoImage" width="600" height="400">
 </a>
 </p>
 
