@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button"
 
-import { Logo } from "./logo"
+import { Logo } from "./dashboard.logo"
 
 export const Footer = () => {
   return (
