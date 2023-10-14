@@ -4,20 +4,22 @@
     <h1>Devotion</h1>
     <h3>Fullstack Notion Clone</h3>
     <h4>(Portfolio Project)<h4>
+  </a>
     <hr>
+  <a href='https://devotion-portfolioproject.vercel.app/', target='_blank'>
     <h5>live demo</h5>
+  </a>
     <h6>
         built with <a href="https://nextjs.org">Next.js</a> &
         hosted by <a href="https://vercel.com/">Vercel</a> 
     </h6>
-  </a>
 </div>
 
 <!-- Logo -->
 <p align='center'>
 <a href='https://devotion-portfolioproject.vercel.app/', target='_blank'>
     <img src="/public/github/home-demo.jpeg" alt="Demo" title="DemoImage" width="500" height="750">
-    <img src="/public/github/dashboard-demo.png" alt="Demo" title="DemoImage" width="600" height="400">
+    <!-- <img src="/public/github/dashboard-demo.png" alt="Demo" title="DemoImage" width="600" height="400"> -->
 </a>
 </p>
 
