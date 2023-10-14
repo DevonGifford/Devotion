@@ -2,7 +2,6 @@
 <div align="center">
   <a href='🎯🎯🎯', target='_blank'>
     <h1>Devotion</h1>
-    <h3>DEV BRANCH</h3>
     <h3>Fullstack Notion Clone</h3>
     <h4>(Portfolio Project)<h4>
     <hr>
