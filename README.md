@@ -8,7 +8,7 @@
     <hr>
   <a href='https://devotion-portfolioproject.vercel.app/', target='_blank'>
     <h5>live demo</h5>
-  <img src="/public/github/devotion-app-promo.png" alt="Demo" title="DemoImage" width="500" height="400">
+  <img src="/public/github/devotion-app-promo.png" alt="Demo" title="DemoImage" width="500" height="300">
   </a>
   <!-- <h3 align='center'>
     Tech Used in this Project
