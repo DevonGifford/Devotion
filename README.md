@@ -3,23 +3,13 @@
   <a href='https://devotion-portfolioproject.vercel.app/', target='_blank'>
     <h1>Devotion</h1>
     <h3>Fullstack Notion Clone</h3>
+    <img src="/public/github/devotion-app-promo.png" alt="Demo" title="DemoImage" width="500" height="300">
     <h4>(Portfolio Project)<h4>
   </a>
     <hr>
   <a href='https://devotion-portfolioproject.vercel.app/', target='_blank'>
     <h5>live demo</h5>
-  <img src="/public/github/devotion-app-promo.png" alt="Demo" title="DemoImage" width="500" height="300">
   </a>
-  <!-- <h3 align='center'>
-    Tech Used in this Project
-  <h3>
-  <p align='center'>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind" /><br>
-        <img src="https://img.stackshare.io/service/40157/default_ac6bddce398a038cb30e3dfd23eaab10c84cfc78.jpg" width=50 alt="React-Hot-Toast" >
-        <img src="https://skillicons.dev/icons?i=vercel,github" />
-    </a>
-  </p> -->
   <h6>
       built with <a href="https://nextjs.org">Next.js</a> &
       hosted by <a href="https://vercel.com/">Vercel</a> 
