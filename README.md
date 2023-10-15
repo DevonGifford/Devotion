@@ -8,8 +8,9 @@
     <hr>
   <a href='https://devotion-portfolioproject.vercel.app/', target='_blank'>
     <h5>live demo</h5>
+  <img src="/public/github/devotion-app-promo.png" alt="Demo" title="DemoImage" width="500" height="400">
   </a>
-  <h3 align='center'>
+  <!-- <h3 align='center'>
     Tech Used in this Project
   <h3>
   <p align='center'>
@@ -18,7 +19,7 @@
         <img src="https://img.stackshare.io/service/40157/default_ac6bddce398a038cb30e3dfd23eaab10c84cfc78.jpg" width=50 alt="React-Hot-Toast" >
         <img src="https://skillicons.dev/icons?i=vercel,github" />
     </a>
-  </p>
+  </p> -->
   <h6>
       built with <a href="https://nextjs.org">Next.js</a> &
       hosted by <a href="https://vercel.com/">Vercel</a> 
@@ -29,7 +30,7 @@
 <p align='center'>
 <a href='https://devotion-portfolioproject.vercel.app/', target='_blank'>
     <img src="/public/github/home-demo.jpeg" alt="Demo" title="DemoImage" width="500" height="750">
-    <!-- <img src="/public/github/dashboard-demo.png" alt="Demo" title="DemoImage" width="600" height="400"> -->
+    
 </a>
 </p>
 
