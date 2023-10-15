@@ -5,12 +5,9 @@
     <img src="/public/github/devotion-app-promo.png" alt="Demo" title="DemoImage" width="500" height="300">
   </a>
   <h5><a href='https://devotion-portfolioproject.vercel.app/', target='_blank'>
-    live demo link
+    👉 live demo link 👈
   </a></h5>
-  <h6>
-    built with <a href="https://nextjs.org">Next.js</a> &
-    hosted by <a href="https://vercel.com/">Vercel</a> 
-  </h6>
+
 </div>
 
 <!-- -------------------------------------------------------------------------- -->
@@ -33,7 +30,7 @@ Utilizing a real-time database and recursive components, Devotion serves as a ro
 Feel free to further refine or expand upon this introduction based on your preferences. 
 If there's anything else you'd like to add or adjust, please let me know!
 
-⚠ This project is for educational purposes only and not affiliated with Notion.
+⚠ This project is for educational purposes only and not affiliated with [Notion.so](www.Notion.so)
 
 <br>
 
@@ -209,12 +206,16 @@ npm run dev
 
 
 <!-- DEMO -->
-<p align='center'>
+<div align='center'>
 <a href='https://devotion-portfolioproject.vercel.app/', target='_blank'>
     <img src="/public/github/home-demo.jpeg" alt="Demo" title="DemoImage" width="500" height="750">
     
 </a>
-</p>
+<h6>
+  built with <a href="https://nextjs.org">Next.js</a> &
+  hosted by <a href="https://vercel.com/">Vercel</a> 
+</h6>
+</div>
 
 <!-- Closing -->
 
