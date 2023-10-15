@@ -13,17 +13,6 @@
   </a>
 </div>
 
-<!-- DEMO -->
-<p align='center'>
-<a href='https://devotion-portfolioproject.vercel.app/', target='_blank'>
-    <img src="/public/github/home-demo.jpeg" alt="Demo" title="DemoImage" width="500" height="750">
-    
-</a>
-</p>
-
-
-
-
 <!-- -------------------------------------------------------------------------- -->
 
 <h1 align='center'> Welcome & Introductory </h1>
@@ -241,6 +230,13 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 <br><br>
 
+<!-- DEMO -->
+<p align='center'>
+<a href='https://devotion-portfolioproject.vercel.app/', target='_blank'>
+    <img src="/public/github/home-demo.jpeg" alt="Demo" title="DemoImage" width="500" height="750">
+    
+</a>
+</p>
 
 <!-- Closing -->
 
