@@ -1,21 +1,21 @@
 <!-- Introduction Text -->
 <div align="center">
   <a href='https://devotion-portfolioproject.vercel.app/', target='_blank'>
+    <h2>Fullstack Portfolio Project</h2>
     <img src="/public/github/devotion-app-promo.png" alt="Demo" title="DemoImage" width="500" height="300">
-    <h5>Fullstack Notion Clone - Portfolio Project</h5>
   </a>
-  <a href='https://devotion-portfolioproject.vercel.app/', target='_blank'>
-    <h5>live demo</h5>
-    <h6>
-        built with <a href="https://nextjs.org">Next.js</a> &
-        hosted by <a href="https://vercel.com/">Vercel</a> 
-    </h6>
-  </a>
+  <h5><a href='https://devotion-portfolioproject.vercel.app/', target='_blank'>
+    live demo link
+  </a></h5>
+  <h6>
+    built with <a href="https://nextjs.org">Next.js</a> &
+    hosted by <a href="https://vercel.com/">Vercel</a> 
+  </h6>
 </div>
 
 <!-- -------------------------------------------------------------------------- -->
 
-<h1 align='center'> Welcome & Introductory </h1>
+<h2 align='center'> Welcome & Introductory </h2>
 
 <!-- -------------------------------------------------------------------------- -->
 
