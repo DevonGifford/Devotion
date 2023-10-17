@@ -10,7 +10,7 @@ import { Button } from "@/components/ui/button";
 import { Spinner } from "@/components/spinner";
 import { cn } from "@/lib/utils";
 
-import { Logo } from "./logo";
+import { Logo } from "./dashboard.logo";
 
 export const Navbar = () => {
   const { isAuthenticated, isLoading } = useConvexAuth();
@@ -18,7 +18,7 @@ export const Navbar = () => {
 
   return (
     <div className={cn(
-      "z-50 bg-background dark:bg-[#1F1F1F] fixed top-0 flex items-center w-full p-6",
+      "z-50 bg-background dark:bg-[#1F1F1F] fixed top-0 flex items-center w-full pt-6 px-5 lg:px-12",
       scrolled && "border-b shadow-sm"
     )}>
       <Logo />
